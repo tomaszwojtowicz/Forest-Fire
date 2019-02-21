@@ -1,0 +1,8 @@
+﻿  Settings.cpp
+  ForestFire.cpp
+c:\users\tomek\source\repos\c++\forestfire\forestfire\forestfire.cpp(171): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Environment.cpp
+  Cell.cpp
+  Generating Code...
+  ForestFire.vcxproj -> C:\Users\Tomek\Source\Repos\C++\ForestFire\Debug\ForestFire.exe
+  ForestFire.vcxproj -> C:\Users\Tomek\Source\Repos\C++\ForestFire\Debug\ForestFire.pdb (Full PDB)
